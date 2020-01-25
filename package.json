@@ -1,0 +1,20 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "cd my-app && react-scripts build",
+    "start_section3": "cd section3 && react-scripts start",
+    "start_my_app": "cd my-app && react-scripts start",
+    "start_name_app": "cd name-app && react-scripts start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-scripts": "1.1.5"
+  }
+}
