@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "cd my-app && react-scripts build",
-    "start_section3": "cd section3 && react-scripts start",
+    "start_section3": "cd Section 3 - Understanding the base Features and Syntax && react-scripts start",
     "start_my_app": "cd my-app && react-scripts start",
     "start_name_app": "cd name-app && react-scripts start"
   },
