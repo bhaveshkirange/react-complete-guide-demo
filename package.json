@@ -6,7 +6,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "cd Section 3 - Understanding the base Features and Syntax && react-scripts build",
     "start_section3": "cd Section 3 - Understanding the base Features and Syntax && react-scripts start",
-    "start_section4": "cd Section 4 - Working with Lists and Conditionals && react-scripts start"
+    "start_section4": "cd Section 4 - Working with Lists and Conditionals && react-scripts start",
+    "start_section5": "cd Section 5 - Styling React Components and Elements && react-scripts start"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -16,6 +17,7 @@
   "dependencies": {
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "1.1.5"
+    "react-scripts": "^3.4.0",
+    "radium": "^0.26.0"
   }
 }
